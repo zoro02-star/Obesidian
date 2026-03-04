@@ -1,3 +1,4 @@
+```
  1.SSH Brute-Force Detection in Splunk  
 Simulate SSH brute-force attacks and build Splunk dashboards with threshold-based alerts to detect credential abuse patterns.  
 Tech: Kali, Metasploit, Nmap, Splunk, auth.log  
@@ -37,3 +38,4 @@ Tech: Kali, Wireshark, Nmap, Splunk or ELK
 10.Detection Rule Tuning & False Positive Reduction  
 Build initial detection rules for scans and brute-force activity, then refine them to balance accuracy and noise reduction.  
 Tech: Kali, Nmap, Metasploit, Splunk or ELK
+```

@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 289.5
   },
   "right": {
     "id": "ab865d0862fc6315",
@@ -164,26 +164,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "penetesting/(owasp top 10).md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "ba93d6d81a392709",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of (owasp top 10)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,20 +189,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "133b8123e5a8e831",
   "lastOpenFiles": [
-    "SOC/SOC.md",
-    "Untitled.canvas",
-    "SOC/windows-event-log-analyst-reference.pdf",
+    "Python-libraries/python+pwntools.md",
     "penetesting/everything.md",
-    "SOC",
+    "SOC/SOC.md",
+    "Python-libraries/python+beautifulsoup.md",
+    "penetesting/Web-Pentest-Checklist.md",
+    "penetesting/STRIDE THREAT MODEL.md",
+    "penetesting/reporting stuff.md",
+    "penetesting/projects.md",
+    "penetesting/Pentesting.md",
+    "penetesting/network-penetesting.md",
+    "penetesting/(owasp top 10).md",
+    "Active-directory/Untitled.md",
+    "SOC/windows-event-log-analyst-reference.pdf",
+    "Linux-privilege",
+    "windows-privilege",
+    "Active-directory",
+    "Untitled.base",
+    "Active-directory/2024-01-05-htb-active-walkthrough/content/active-raw.org",
+    "Active-directory/2024-01-05-htb-active-walkthrough/content",
+    "Active-directory/2024-01-05-htb-active-walkthrough/thumbnail.png",
+    "Active-directory/2024-01-05-htb-active-walkthrough",
+    "Active-directory/2024-01-24-htb-active-report/content/active-report.pdf",
+    "Active-directory/2024-01-24-htb-active-report/content",
+    "Active-directory/2024-01-24-htb-active-report/thumbnail.png",
+    "Active-directory/2025-01-28-active-directory-exploitation-lab-setup/thumbnail.png",
+    "Active-directory/2025-02-04-active-directory-exploitation-02-introduction-to-ad/content/img/tree.png",
+    "Active-directory/2025-02-04-active-directory-exploitation-02-introduction-to-ad/content/img/forest.png",
+    "Active-directory/2025-02-04-active-directory-exploitation-02-introduction-to-ad/thumbnail.png",
+    "Active-directory/2025-02-11-active-directory-exploitation-03-exposed-attack-surface/thumbnail.png",
+    "Active-directory/2025-02-19-active-directory-04-attacks-on-smb/thumbnail.png",
+    "Active-directory/2025-02-26-active-directory-05-kerberos/content/sequence/kerberos.png",
+    "Active-directory/2025-02-26-active-directory-05-kerberos/thumbnail.png",
+    "Active-directory/Introduction to Active directory.md",
+    "Untitled.canvas",
     "Untitled.md",
     "penetesting/Untitled.md",
-    "penetesting/projects.md",
     "notes/SQLI INJECTIONS.md",
     "notes/Cross-site request forgery.md",
     "notes/cross-site-scripting.md",
@@ -223,34 +241,7 @@
     "notes/Security Misconfiguration.md",
     "notes/injection.md",
     "notes/Broken-Access-Control.md",
-    "penetesting/Pentesting.md",
-    "penetesting/STRIDE THREAT MODEL.md",
-    "penetesting/Web-Pentest-Checklist.md",
-    "penetesting/reporting stuff.md",
-    "penetesting/network-penetesting.md",
-    "penetesting/(owasp top 10).md",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "penetesting/2026-01-08 - All types of RESOURCES.md",
-    "libraries/python-libraries-pwntools.md",
-    "libraries/python-libraries-beautifulsoup.md",
-    "notes",
-    "PortSwigger",
-    "penetesting/Pasted image 20260111003117.png",
-    "network-penetesting",
-    "Active-directory",
-    "src/2025-04-02-channel-04-whoami/content/notes.txt",
-    "src/2025-04-02-channel-04-whoami/thumbnail.png",
-    "src/2025-04-02-channel-04-whoami/content",
-    "src/2025-04-02-channel-04-whoami",
-    "src/2025-03-30-bscp-guide-02-portswigger-web-security-academy/thumbnail.png",
-    "src/2025-03-30-bscp-guide-02-portswigger-web-security-academy",
-    "src/2025-03-26-web-01-what-is-web-server/thumbnail.png",
-    "src/2025-03-22-programming-C-01-pointers/thumbnail.png",
-    "src/2025-03-18-ctf-04-srdnlnctf-2025-web-race-condition/thumbnail.png",
-    "src/2025-03-15-active-directory-07-kerberos-user-enumeration/thumbnail.png",
-    "src/2025-03-11-bscp-guide-01-my-exam-experience/thumbnail.png",
-    "src/2025-03-09-from-scratch-05-simple-shell/thumbnail.png",
-    "src/2025-03-05-active-directory-06-roasting-attacks-on-kerberos/thumbnail.png"
+    "Untitled 1.canvas"
   ]
 }

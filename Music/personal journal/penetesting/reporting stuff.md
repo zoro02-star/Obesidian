@@ -1,12 +1,16 @@
-###### https://docs.sysreptor.com/ :
-	website for customizing reporting and make pdf
-##### `Sysreptor basic guide : u can edit boilerplate as u want, in scope assets, out of scope assets.
-## findings :
+```
+https://docs.sysreptor.com/ :
+website for reporting templates and make pdf
+```
+```
+Sysreptor basic guide : u can edit boilerplate as u want, in scope assets, out of scope assets.
+```
+# findings :
 		- use suitable title for your findings (use chatgpt)
 		- CWE (Common Weakness Enumeration) exactly name
 		- cvss 
 
-## description :
+# description :
 		What the _Description_ section is for
 		Think of **Description** as:
  **“What is the vulnerability, where is it, and why does it exist?”**
@@ -63,11 +67,11 @@ Explain **how it can be abused** without payload spam.
 > **Description:**  
 > The application fails to enforce proper access control checks on administrative endpoints, allowing non-privileged users to access restricted functionality.
 
-## impact : 
+# impact : 
 	An attacker can **[capability]**, leading to **[technical consequence]**, which may result in **[business risk]**.
 	example:
 		An attacker could execute arbitrary SQL queries on the backend database, allowing them to read, modify, or delete sensitive data such as user credentials and personal information. This could lead to a full data breach, account compromise, and severe reputational and financial damage to the organization.
-## Remediation :
+# Remediation :
 			- What _Remediation_ should answer
 			**“What exact steps should the developer take to prevent this vulnerability?”**
 	It should be:
