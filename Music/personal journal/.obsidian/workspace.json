@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "8063515ec1e5fe85",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7178ac4c4cec286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "133b8123e5a8e831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC/SOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SOC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d7385ba1e30470b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9ba3beec5737e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc37c85b48ba8104",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0eebd4fe9d44fe1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b4d5e806bb56b91f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "ab865d0862fc6315",
+    "type": "split",
+    "children": [
+      {
+        "id": "67970e7ca6c4f065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa8d0e850bc7f569",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "18984f87b599cea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "027c28a3c9a8fc64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e30e01117db15cc2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "393db79dba8de55f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ba93d6d81a392709",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "133b8123e5a8e831",
+  "lastOpenFiles": [
+    "SOC/SOC.md",
+    "Untitled.canvas",
+    "SOC/windows-event-log-analyst-reference.pdf",
+    "penetesting/everything.md",
+    "SOC",
+    "Untitled.md",
+    "penetesting/Untitled.md",
+    "penetesting/projects.md",
+    "notes/SQLI INJECTIONS.md",
+    "notes/Cross-site request forgery.md",
+    "notes/cross-site-scripting.md",
+    "notes/Graphql.md",
+    "notes/JWT.md",
+    "notes/OS injection.md",
+    "notes/Dom-based vulnerabilities.md",
+    "notes/SSRF (server side request forgery).md",
+    "notes/Security Misconfiguration.md",
+    "notes/injection.md",
+    "notes/Broken-Access-Control.md",
+    "penetesting/Pentesting.md",
+    "penetesting/STRIDE THREAT MODEL.md",
+    "penetesting/Web-Pentest-Checklist.md",
+    "penetesting/reporting stuff.md",
+    "penetesting/network-penetesting.md",
+    "penetesting/(owasp top 10).md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "penetesting/2026-01-08 - All types of RESOURCES.md",
+    "libraries/python-libraries-pwntools.md",
+    "libraries/python-libraries-beautifulsoup.md",
+    "notes",
+    "PortSwigger",
+    "penetesting/Pasted image 20260111003117.png",
+    "network-penetesting",
+    "Active-directory",
+    "src/2025-04-02-channel-04-whoami/content/notes.txt",
+    "src/2025-04-02-channel-04-whoami/thumbnail.png",
+    "src/2025-04-02-channel-04-whoami/content",
+    "src/2025-04-02-channel-04-whoami",
+    "src/2025-03-30-bscp-guide-02-portswigger-web-security-academy/thumbnail.png",
+    "src/2025-03-30-bscp-guide-02-portswigger-web-security-academy",
+    "src/2025-03-26-web-01-what-is-web-server/thumbnail.png",
+    "src/2025-03-22-programming-C-01-pointers/thumbnail.png",
+    "src/2025-03-18-ctf-04-srdnlnctf-2025-web-race-condition/thumbnail.png",
+    "src/2025-03-15-active-directory-07-kerberos-user-enumeration/thumbnail.png",
+    "src/2025-03-11-bscp-guide-01-my-exam-experience/thumbnail.png",
+    "src/2025-03-09-from-scratch-05-simple-shell/thumbnail.png",
+    "src/2025-03-05-active-directory-06-roasting-attacks-on-kerberos/thumbnail.png"
+  ]
+}
