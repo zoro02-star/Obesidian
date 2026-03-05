@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b7178ac4c4cec286",
+        "id": "a2d469bbaea5dc21",
         "type": "tabs",
         "children": [
           {
-            "id": "133b8123e5a8e831",
+            "id": "546274034b8f196d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "SOC/SOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "SOC/power-of-spl.pdf"
               },
-              "icon": "lucide-file",
-              "title": "SOC"
+              "icon": "lucide-file-text",
+              "title": "power-of-spl"
             }
           }
         ]
@@ -192,31 +180,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "133b8123e5a8e831",
+  "active": "546274034b8f196d",
   "lastOpenFiles": [
-    "Python-libraries/python+pwntools.md",
-    "penetesting/everything.md",
-    "SOC/SOC.md",
-    "Python-libraries/python+beautifulsoup.md",
+    "SOC/windows-event-log-analyst-reference.pdf",
+    "SOC/power-of-spl.pdf",
+    "SOC/03 - Detect & Incidence response.md",
+    "SOC/04 - Networking.md",
+    "Python & libraries/Python Guide.pdf",
+    "SOC/02 - Security Information and Event Management.md",
+    "SOC/01 - SOC.md",
+    "penetesting/01-everything.md",
+    "penetesting/PROJECTS.md",
+    "penetesting/network-penetesting.md",
+    "01-Linux/linux-cheatsheet.pdf",
+    "01-Linux",
+    "02-windows",
+    "Python & libraries/python+pwntools.md",
+    "Python & libraries/python+beautifulsoup.md",
     "penetesting/Web-Pentest-Checklist.md",
     "penetesting/STRIDE THREAT MODEL.md",
     "penetesting/reporting stuff.md",
-    "penetesting/projects.md",
     "penetesting/Pentesting.md",
-    "penetesting/network-penetesting.md",
     "penetesting/(owasp top 10).md",
     "Active-directory/Untitled.md",
-    "SOC/windows-event-log-analyst-reference.pdf",
     "Linux-privilege",
     "windows-privilege",
     "Active-directory",
     "Untitled.base",
-    "Active-directory/2024-01-05-htb-active-walkthrough/content/active-raw.org",
-    "Active-directory/2024-01-05-htb-active-walkthrough/content",
     "Active-directory/2024-01-05-htb-active-walkthrough/thumbnail.png",
-    "Active-directory/2024-01-05-htb-active-walkthrough",
-    "Active-directory/2024-01-24-htb-active-report/content/active-report.pdf",
-    "Active-directory/2024-01-24-htb-active-report/content",
     "Active-directory/2024-01-24-htb-active-report/thumbnail.png",
     "Active-directory/2025-01-28-active-directory-exploitation-lab-setup/thumbnail.png",
     "Active-directory/2025-02-04-active-directory-exploitation-02-introduction-to-ad/content/img/tree.png",
@@ -237,10 +228,6 @@
     "notes/JWT.md",
     "notes/OS injection.md",
     "notes/Dom-based vulnerabilities.md",
-    "notes/SSRF (server side request forgery).md",
-    "notes/Security Misconfiguration.md",
-    "notes/injection.md",
-    "notes/Broken-Access-Control.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

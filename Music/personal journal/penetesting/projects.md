@@ -20,7 +20,7 @@ Develop a Python or Bash script to detect brute-force patterns in Linux logs and
 Tech: Kali, Python or Bash, Splunk or ELK  
   
 6.Beaconing Traffic Detection Lab  
-Simulate periodic command-and-control traffic and build time-based detection logic to identify beaconing behavior.  
+Simulate periodic command-and-control traffic and build time-based detection logic to identify beaconing behavior. 
 Tech: Kali, Netcat, Wireshark, Splunk or ELK  
   
 7.Exploitation Visibility Analysis  
