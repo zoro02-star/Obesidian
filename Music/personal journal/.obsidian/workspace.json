@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a2d469bbaea5dc21",
+        "id": "66b0568a51dbdfdd",
         "type": "tabs",
         "children": [
           {
-            "id": "546274034b8f196d",
+            "id": "88ada24e8e256a91",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SOC/power-of-spl.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "power-of-spl"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab865d0862fc6315",
@@ -180,8 +179,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "546274034b8f196d",
+  "active": "88ada24e8e256a91",
   "lastOpenFiles": [
+    "SOC/splunk command/05 - dhcp.md",
+    "SOC/splunk command/04 - smtp.md",
+    "SOC/splunk command/03 - tunnel.md",
+    "SOC/splunk command/01 - ssh.md",
+    "SOC/splunk command/02 - ftp.md",
+    "SOC/splunk command/Untitled",
+    "SOC/04 - Splunk commands.md",
+    "SOC/splunk command",
     "SOC/windows-event-log-analyst-reference.pdf",
     "SOC/power-of-spl.pdf",
     "SOC/03 - Detect & Incidence response.md",
@@ -205,8 +212,6 @@
     "Active-directory/Untitled.md",
     "Linux-privilege",
     "windows-privilege",
-    "Active-directory",
-    "Untitled.base",
     "Active-directory/2024-01-05-htb-active-walkthrough/thumbnail.png",
     "Active-directory/2024-01-24-htb-active-report/thumbnail.png",
     "Active-directory/2025-01-28-active-directory-exploitation-lab-setup/thumbnail.png",
@@ -223,11 +228,6 @@
     "penetesting/Untitled.md",
     "notes/SQLI INJECTIONS.md",
     "notes/Cross-site request forgery.md",
-    "notes/cross-site-scripting.md",
-    "notes/Graphql.md",
-    "notes/JWT.md",
-    "notes/OS injection.md",
-    "notes/Dom-based vulnerabilities.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
