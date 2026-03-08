@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "66b0568a51dbdfdd",
+        "id": "d59460b20f271be6",
         "type": "tabs",
         "children": [
           {
-            "id": "88ada24e8e256a91",
+            "id": "1ee715336772f0f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "penetesting/01-everything.md",
+                "file": "web-Application-notes/extra/Clickjacking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01-everything"
+              "title": "Clickjacking"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 249.5
   },
   "right": {
     "id": "ab865d0862fc6315",
@@ -192,39 +192,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "88ada24e8e256a91",
+  "active": "bc37c85b48ba8104",
   "lastOpenFiles": [
-    "SOC/splunk command/05 - dhcp.md",
-    "SOC/splunk command/04 - smtp.md",
-    "SOC/splunk command/03 - tunnel.md",
-    "SOC/splunk command/01 - ssh.md",
-    "SOC/splunk command/02 - ftp.md",
-    "SOC/splunk command/Untitled",
-    "SOC/04 - Splunk commands.md",
-    "SOC/splunk command",
-    "SOC/windows-event-log-analyst-reference.pdf",
-    "SOC/power-of-spl.pdf",
-    "SOC/03 - Detect & Incidence response.md",
-    "SOC/04 - Networking.md",
-    "Python & libraries/Python Guide.pdf",
-    "SOC/02 - Security Information and Event Management.md",
-    "SOC/01 - SOC.md",
-    "penetesting/01-everything.md",
-    "penetesting/PROJECTS.md",
-    "penetesting/network-penetesting.md",
-    "01-Linux/linux-cheatsheet.pdf",
-    "01-Linux",
-    "02-windows",
-    "Python & libraries/python+pwntools.md",
-    "Python & libraries/python+beautifulsoup.md",
-    "penetesting/Web-Pentest-Checklist.md",
-    "penetesting/STRIDE THREAT MODEL.md",
-    "penetesting/reporting stuff.md",
-    "penetesting/Pentesting.md",
-    "penetesting/(owasp top 10).md",
-    "Active-directory/Untitled.md",
-    "Linux-privilege",
-    "windows-privilege",
+    "web-Application-notes/Broken-Access-control/Account takeover/README.md",
+    "web-Application-notes/Broken-Access-control/Account takeover/mfa-bypass.md",
+    "web-Application-notes/Broken-Access-control/Account takeover",
+    "web-Application-notes/extra/Api key LEAKS.md",
+    "web-Application-notes/extra/Brute-Force-rate-limit.md",
+    "web-Application-notes/Business Logic Error/README.md",
+    "web-Application-notes/Business Logic Error",
+    "web-Application-notes/Broken-Access-control/Directory-Traversal.md",
+    "web-Application-notes/extra/Clickjacking.md",
+    "web-Application-notes/Broken-Access-control/client-Side-Path-Traversal.md",
+    "web-Application-notes/misconfigs/Cross-site request forgery.md",
+    "web-Application-notes/Injections/command injection.md",
+    "web-Application-notes/Broken-Access-control/CORS.md",
+    "web-Application-notes/Broken-Access-control/CRLF.md",
+    "web-Application-notes/misconfigs/CSRF.md",
+    "web-Application-notes/DDOS/README.md",
+    "web-Application-notes/Injections/CSS injection.md",
+    "web-Application-notes/Injections/CSV INJECTIOn.md",
+    "web-Application-notes/misconfigs/Prototype-Pollution.md",
+    "web-Application-notes/Other/Dependency Confusion.md",
+    "web-Application-notes/misconfigs/ORM LEAK.md",
+    "web-Application-notes/misconfigs/OAuth-Misconfiguration.md",
+    "web-Application-notes/misconfigs/insecure mgmt interfaces.md",
+    "web-Application-notes/misconfigs/HIDDEN parameters.md",
+    "web-Application-notes/misconfigs/Headless Browser.md",
+    "web-Application-notes/misconfigs/Graphql.md",
+    "web-Application-notes/Broken-Access-control/File-inclusion/README.md",
+    "web-Application-notes/Other/DOM Clobbering.md",
+    "web-Application-notes/extra",
+    "web-Application-notes/Broken-Access-control/File-inclusion",
+    "web-Application-notes/insecure Deserializaiton",
+    "Untitled",
+    "web-Application-notes/insecure source code mgmt",
+    "Methodology and Resources",
+    "web-Application-notes/DDOS",
+    "web-Application-notes/misconfigs",
     "Active-directory/2024-01-05-htb-active-walkthrough/thumbnail.png",
     "Active-directory/2024-01-24-htb-active-report/thumbnail.png",
     "Active-directory/2025-01-28-active-directory-exploitation-lab-setup/thumbnail.png",
@@ -235,12 +240,7 @@
     "Active-directory/2025-02-19-active-directory-04-attacks-on-smb/thumbnail.png",
     "Active-directory/2025-02-26-active-directory-05-kerberos/content/sequence/kerberos.png",
     "Active-directory/2025-02-26-active-directory-05-kerberos/thumbnail.png",
-    "Active-directory/Introduction to Active directory.md",
     "Untitled.canvas",
-    "Untitled.md",
-    "penetesting/Untitled.md",
-    "notes/SQLI INJECTIONS.md",
-    "notes/Cross-site request forgery.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
