@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6c49256971b4172f",
+        "id": "1b9a182d43d57cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "1368171c3971046f",
+            "id": "46ffe7cbbd8f3725",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "web-Application-notes/Injections/xss/cross-site-scripting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cross-site-scripting"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jquery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab865d0862fc6315",
@@ -178,34 +193,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "1368171c3971046f",
+  "active": "46ffe7cbbd8f3725",
   "lastOpenFiles": [
-    "web-Application-notes/Sql/SQLmap.md",
-    "web-Application-notes/Sql/OracleSQL Injection.md",
-    "web-Application-notes/Sql/PostgreSQL Injection.md",
+    "web-Application-notes/Injections/xss/xss readme.md",
+    "nuclei-templates/information disclosure.md",
     "nuclei-templates/nuclei.md",
-    "web-Application-notes/Sql/SQLITE INJECTION.md",
-    "web-Application-notes/Sql/NOSQL injection.md",
-    "web-Application-notes/Sql/MSSQL Injection.md",
-    "web-Application-notes/Sql/GraphQL.md",
-    "web-Application-notes/Sql/DB2 Injection.md",
-    "web-Application-notes/Injections/SSI injection.md",
-    "web-Application-notes/Sql/Cassandra Injection.md",
-    "web-Application-notes/Sql/BigQuery Injection.md",
-    "web-Application-notes/insecure Deserializaiton/Node.md",
-    "web-Application-notes/insecure Deserializaiton/Java.md",
-    "web-Application-notes/insecure Deserializaiton/DotNET.md",
-    "web-Application-notes/insecure Deserializaiton/README.md",
-    "web-Application-notes/Injections/Zip-Slip.md",
     "web-Application-notes/Injections/XXE injection.md",
+    "web-Application-notes/Injections/SSTI/Java.md",
+    "nuclei-templates/ai.md",
+    "web-Application-notes/Business Logic Error/Business Logic Errors.md",
+    "web-Application-notes/Injections/Prompt Injection.md",
+    "web-Application-notes/Injections/SSTI/SSTI.md",
+    "Python & libraries/python+pwntools.md",
+    "Python & libraries/python+beautifulsoup.md",
+    "web-Application-notes/Sql/MSSQL Injection.md",
+    "Methodology and Resources/Windows - Mimikatz.md",
+    "Methodology and Resources/Windows - DPAPI.md",
+    "Methodology and Resources/Cloud - Azure Pentest.md",
+    "web-Application-notes/SSRF/SSRF.md",
+    "web-Application-notes/Injections/command injection.md",
     "web-Application-notes/Injections/XSLT INJECTION.md",
     "web-Application-notes/Injections/XPATH INJECTION.md",
+    "web-Application-notes/Injections/SSTI/PHP.md",
+    "web-Application-notes/Injections/SSTI/JavaScript.md",
     "web-Application-notes/Injections/SQLI INJECTIONS.md",
-    "web-Application-notes/Injections/SAML INJECTION.md",
-    "web-Application-notes/Injections/Promp Injection.md",
-    "web-Application-notes/Injections/Mass Assignment.md",
-    "web-Application-notes/Injections/LATEX injection.md",
-    "web-Application-notes/Injections/CSV INJECTIOn.md",
+    "web-Application-notes/DORKING/Passive & Historical URL Discovery.md",
+    "web-Application-notes/DORKING/DORKING.md",
+    "penetesting/STRIDE THREAT MODEL.md",
+    "web-Application-notes/Sql/SQLmap.md",
     "nuclei-templates",
     "web-Application-notes/DORKING",
     "web-Application-notes/OAuth",

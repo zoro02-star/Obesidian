@@ -46,15 +46,15 @@
 
 ## MSSQL Comments
 
-| Type                       | Description                       |
-|----------------------------|-----------------------------------|
-| `/* MSSQL Comment */`      | C-style comment                   |
-| `--`                       | SQL comment                       |
-| `;%00`                     | Null byte                         |
+| Type                  | Description     |
+| --------------------- | --------------- |
+| `/* MSSQL Comment */` | C-style comment |
+| `--`                  | SQL comment     |
+| `;%00`                | Null byte       |
 
 ## MSSQL Enumeration
 
-| Description     | SQL Query |
+| Description     | SQL Query                                 |
 | --------------- | ----------------------------------------- |
 | DBMS version    | `SELECT @@version`                        |
 | Database name   | `SELECT DB_NAME()`                        |
