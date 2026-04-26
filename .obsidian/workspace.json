@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "others/crypto.md",
-                "mode": "preview",
+                "file": "others/new.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "crypto"
+              "title": "new"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "46b978271395ec66",
   "lastOpenFiles": [
-    "others/c.md",
     "others/crypto.md",
+    "others/new.md",
+    "others/c.md",
     "others/meterpreter.md",
     "owasp mobile top 10/m10-insufficient-cryptography.md",
     "owasp mobile top 10/m9-insecure-data-storage.md",
@@ -220,7 +221,6 @@
     "web-Application-notes/Injections/SSTI/SSTI.md",
     "Python & libraries/python+pwntools.md",
     "Python & libraries/python+beautifulsoup.md",
-    "web-Application-notes/Sql/MSSQL Injection.md",
     "nuclei-templates",
     "web-Application-notes/DORKING",
     "web-Application-notes/OAuth",
