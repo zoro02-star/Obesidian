@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e9469862b4c11f0",
+        "id": "248da307c6953b7d",
         "type": "tabs",
         "children": [
           {
-            "id": "46b978271395ec66",
+            "id": "ee72a30b1d98ce31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "others/new.md",
+                "file": "Skills/Graphql.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "new"
+              "title": "Graphql"
             }
           }
         ]
@@ -192,12 +192,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "46b978271395ec66",
+  "active": "ee72a30b1d98ce31",
   "lastOpenFiles": [
+    "penetesting/Web-Pentest-Checklist.md",
+    "Skills/Graphql.md",
+    "Skills",
+    "penetesting/Pentesting.md",
+    "penetesting/STRIDE THREAT MODEL.md",
+    "penetesting/01-everything.md",
+    "penetesting/(owasp top 10).md",
+    "nuclei-templates/information disclosure.md",
+    "others/dorks.md",
+    "others/reporting.md",
+    "web-Application-notes/Business Logic Error/Business Logic Errors.md",
     "others/crypto.md",
-    "others/new.md",
-    "others/c.md",
+    "others/Docker.md",
     "others/meterpreter.md",
+    "others/ASCII Table Cheat Sheet.md",
+    "others/c.md",
     "owasp mobile top 10/m10-insufficient-cryptography.md",
     "owasp mobile top 10/m9-insecure-data-storage.md",
     "owasp mobile top 10/m8-security-misconfiguration.md",
@@ -210,17 +222,6 @@
     "owasp mobile top 10",
     "Untitled.md",
     "web-Application-notes/Injections/xss/cross-site-scripting.md",
-    "web-Application-notes/Injections/xss/xss readme.md",
-    "nuclei-templates/information disclosure.md",
-    "nuclei-templates/nuclei.md",
-    "web-Application-notes/Injections/XXE injection.md",
-    "web-Application-notes/Injections/SSTI/Java.md",
-    "nuclei-templates/ai.md",
-    "web-Application-notes/Business Logic Error/Business Logic Errors.md",
-    "web-Application-notes/Injections/Prompt Injection.md",
-    "web-Application-notes/Injections/SSTI/SSTI.md",
-    "Python & libraries/python+pwntools.md",
-    "Python & libraries/python+beautifulsoup.md",
     "nuclei-templates",
     "web-Application-notes/DORKING",
     "web-Application-notes/OAuth",
@@ -229,7 +230,6 @@
     "web-Application-notes/Broken-Access-control/Account takeover",
     "web-Application-notes/Business Logic Error",
     "web-Application-notes/extra",
-    "web-Application-notes/Broken-Access-control/File-inclusion",
     "Active-directory/2024-01-05-htb-active-walkthrough/thumbnail.png",
     "Active-directory/2024-01-24-htb-active-report/thumbnail.png",
     "Active-directory/2025-01-28-active-directory-exploitation-lab-setup/thumbnail.png",
