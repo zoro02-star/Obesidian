@@ -139,8 +139,7 @@ The injection category covers vulnerabilities where untrusted input is sent to *
 		- Multiple auth systems   
 		- Overloaded permissions
 		- Legacy + modern mixed logic
-### 
-10. Missing Security Requirements : Security never defined as a requirement.
+### 10. Missing Security Requirements : Security never defined as a requirement.
 		No requirement for:
 		- Logging
 		- Rate limiting
@@ -729,11 +728,6 @@ Closed-source but vulnerable.
 - Appliance firmware
 
 # A07 -> Identification & Authentication Failures
-Alright — let’s lock in **A07: Identification & Authentication Failures** only.  
-Clean, complete, and OWASP-accurate.  
-(OWASP Top 10: **2021**)
-
----
 
 ## A07: Identification & Authentication Failures
 

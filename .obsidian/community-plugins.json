@@ -2,5 +2,8 @@
   "highlightr-plugin",
   "obsidian-style-settings",
   "execute-code",
-  "obsidian-git"
+  "obsidian-git",
+  "pdf-read-aloud",
+  "obsidian-excalidraw-plugin",
+  "excalidraw-extras"
 ]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "248da307c6953b7d",
+        "id": "e37b4de9a8026e66",
         "type": "tabs",
         "children": [
           {
-            "id": "ee72a30b1d98ce31",
+            "id": "f4b343d6840ac07a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills/Graphql.md",
+                "file": "penetesting/owasp-api-top-10-pentest-guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Graphql"
+              "title": "owasp-api-top-10-pentest-guide"
             }
           }
         ]
@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "books/blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896"
             }
           },
           {
@@ -122,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "books/blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896"
             }
           },
           {
@@ -164,22 +166,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "penetesting/(owasp top 10).md",
+                "file": "books/blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896.pdf",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (owasp top 10)"
+              "title": "Outline of blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896"
+            }
+          },
+          {
+            "id": "050ce0127e468b12",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-read-aloud-controls",
+              "state": {},
+              "icon": "volume-2",
+              "title": "PDF Read Aloud"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,47 +200,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "pdf-read-aloud:PDF Read Aloud": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee72a30b1d98ce31",
+  "active": "f4b343d6840ac07a",
   "lastOpenFiles": [
-    "penetesting/Web-Pentest-Checklist.md",
-    "Skills/Graphql.md",
-    "Skills",
-    "penetesting/Pentesting.md",
-    "penetesting/STRIDE THREAT MODEL.md",
+    "penetesting/owasp-api-top-10-pentest-guide.md",
+    "penetesting/Untitled.md",
+    "Excalidraw/Drawing 2026-07-01 16.31.05.excalidraw.md",
+    "web-Application-notes/Injections/Prompt Injection.md",
+    "web-Application-notes/Sql/Cassandra Injection.md",
+    "web-Application-notes/misconfigs/Prototype-Pollution.md",
+    "web-Application-notes/Injections/xss/xss readme.md",
+    "web-Application-notes/Injections/xss/cross-site-scripting.md",
+    "web-Application-notes/Injections/xss/5 - XSS in Angular.md",
+    "web-Application-notes/Injections/xss/4 - CSP Bypass.md",
+    "web-Application-notes/Injections/xss/3 - XSS Common WAF Bypass.md",
+    "web-Application-notes/Injections/xss/1 - XSS Filter Bypass.md",
+    "web-Application-notes/Injections/xss/2 - XSS Polyglot.md",
+    "Excalidraw/password generator.md",
+    "books/The Practice of Network Security Monitoring.pdf",
+    "books/Windows Internals Part 2_6th Edition.pdf",
+    "books/The Web Application Hacker's Handbook - Finding and Exploiting Security Flaws, 2nd Edition by Dafydd Stuttard, Marcus Pinto.pdf",
+    "books/blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896.pdf",
+    "books/computer-networking.pdf",
+    "Excalidraw/Drawing 2026-07-01 19.15.16.excalidraw.md",
+    "books/ActiveDirectorySecurityTheJourney.pdf",
+    "books/AWS_Security_Best_Practices.pdf",
+    "books/GoogleCertifiedAssociateCloudEngineer.pdf",
+    "books/data-centre-essentials-design-construction-and-operation-of-data-centres-for-the-non-expert-9781119898818-9781119898825-9781119898832_compress.pdf",
+    "books/Microsoft-Azure-Cloud.pdf",
+    "Python & libraries/python+beautifulsoup.md",
     "penetesting/01-everything.md",
     "penetesting/(owasp top 10).md",
-    "nuclei-templates/information disclosure.md",
-    "others/dorks.md",
-    "others/reporting.md",
-    "web-Application-notes/Business Logic Error/Business Logic Errors.md",
-    "others/crypto.md",
-    "others/Docker.md",
-    "others/meterpreter.md",
-    "others/ASCII Table Cheat Sheet.md",
-    "others/c.md",
-    "owasp mobile top 10/m10-insufficient-cryptography.md",
-    "owasp mobile top 10/m9-insecure-data-storage.md",
-    "owasp mobile top 10/m8-security-misconfiguration.md",
-    "owasp mobile top 10/m6-inadequate-privacy-controls.md",
-    "owasp mobile top 10/m5-insecure-communication.md",
-    "owasp mobile top 10/m4-insufficient-input-output-validation.md",
-    "owasp mobile top 10/m2-inadequate-supply-chain-security.md",
-    "owasp mobile top 10/m1-improper-credential-usage.md",
-    "owasp mobile top 10/index.md",
-    "owasp mobile top 10",
-    "Untitled.md",
-    "web-Application-notes/Injections/xss/cross-site-scripting.md",
-    "nuclei-templates",
-    "web-Application-notes/DORKING",
-    "web-Application-notes/OAuth",
-    "Python & libraries/Python Guide.pdf",
-    "others",
-    "web-Application-notes/Broken-Access-control/Account takeover",
-    "web-Application-notes/Business Logic Error",
-    "web-Application-notes/extra",
+    "SOC/splunk command/01 - ssh.md",
+    "SOC/01 - SOC.md",
+    "web-Application-notes/SSRF/SSRF.md",
+    "cybersecurity-roadmap-2026.md",
+    "web-Application-notes/Injections/CSS injection.md",
+    "web-Application-notes/Injections/command injection.md",
+    "web-Application-notes/Injections/SSTI/Ruby.md",
+    "web-Application-notes/Injections/SSTI/SSTI.md",
     "Active-directory/2024-01-05-htb-active-walkthrough/thumbnail.png",
     "Active-directory/2024-01-24-htb-active-report/thumbnail.png",
     "Active-directory/2025-01-28-active-directory-exploitation-lab-setup/thumbnail.png",
