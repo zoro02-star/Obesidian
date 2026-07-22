@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e37b4de9a8026e66",
+        "id": "820f907beb2d7047",
         "type": "tabs",
         "children": [
           {
-            "id": "f4b343d6840ac07a",
+            "id": "74dbef372644fcc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "penetesting/owasp-api-top-10-pentest-guide.md",
+                "file": "Methodology and Resources/overthewire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "owasp-api-top-10-pentest-guide"
+              "title": "overthewire"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab865d0862fc6315",
@@ -166,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896.pdf",
+                "file": "Excalidraw/wazuh.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896"
+              "title": "Outline of wazuh"
             }
           },
           {
@@ -186,11 +187,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,9 +207,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f4b343d6840ac07a",
+  "active": "74dbef372644fcc4",
   "lastOpenFiles": [
     "penetesting/owasp-api-top-10-pentest-guide.md",
+    "Methodology and Resources/overthewire.md",
+    "others/Docker.md",
+    "Excalidraw/password generator.md",
+    "Excalidraw/wazuh.md",
     "penetesting/Untitled.md",
     "Excalidraw/Drawing 2026-07-01 16.31.05.excalidraw.md",
     "web-Application-notes/Injections/Prompt Injection.md",
@@ -220,7 +226,6 @@
     "web-Application-notes/Injections/xss/3 - XSS Common WAF Bypass.md",
     "web-Application-notes/Injections/xss/1 - XSS Filter Bypass.md",
     "web-Application-notes/Injections/xss/2 - XSS Polyglot.md",
-    "Excalidraw/password generator.md",
     "books/The Practice of Network Security Monitoring.pdf",
     "books/Windows Internals Part 2_6th Edition.pdf",
     "books/The Web Application Hacker's Handbook - Finding and Exploiting Security Flaws, 2nd Edition by Dafydd Stuttard, Marcus Pinto.pdf",
@@ -240,9 +245,6 @@
     "web-Application-notes/SSRF/SSRF.md",
     "cybersecurity-roadmap-2026.md",
     "web-Application-notes/Injections/CSS injection.md",
-    "web-Application-notes/Injections/command injection.md",
-    "web-Application-notes/Injections/SSTI/Ruby.md",
-    "web-Application-notes/Injections/SSTI/SSTI.md",
     "Active-directory/2024-01-05-htb-active-walkthrough/thumbnail.png",
     "Active-directory/2024-01-24-htb-active-report/thumbnail.png",
     "Active-directory/2025-01-28-active-directory-exploitation-lab-setup/thumbnail.png",
