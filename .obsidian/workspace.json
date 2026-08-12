@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "820f907beb2d7047",
+        "id": "2308ed159029c673",
         "type": "tabs",
         "children": [
           {
-            "id": "74dbef372644fcc4",
+            "id": "e957f190ad2b4e4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Methodology and Resources/overthewire.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "books/ProgrammingGroundUp-1-0-booksize.pdf"
               },
-              "icon": "lucide-file",
-              "title": "overthewire"
+              "icon": "lucide-file-text",
+              "title": "ProgrammingGroundUp-1-0-booksize"
             }
           }
         ]
@@ -51,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -63,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jquery",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
   "right": {
     "id": "ab865d0862fc6315",
@@ -182,8 +171,8 @@
             "state": {
               "type": "pdf-read-aloud-controls",
               "state": {},
-              "icon": "volume-2",
-              "title": "PDF Read Aloud"
+              "icon": "lucide-ghost",
+              "title": "pdf-read-aloud-controls"
             }
           }
         ],
@@ -207,12 +196,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "74dbef372644fcc4",
+  "active": "e957f190ad2b4e4a",
   "lastOpenFiles": [
-    "penetesting/owasp-api-top-10-pentest-guide.md",
-    "Methodology and Resources/overthewire.md",
-    "others/Docker.md",
+    "Methodology and Resources/Windows - AMSI Bypass.md",
+    "books/dokumen.pub_c-programming-a-modern-approach-second-edition-2nbsped-9780393979503-2007049425.pdf",
+    "books/ProgrammingGroundUp-1-0-booksize.pdf",
+    "Methodology and Resources/Windows - Defenses.md",
+    "Methodology and Resources/Web Attack Surface.md",
+    "Methodology and Resources/Vulnerability Reports.md",
+    "Methodology and Resources/Source Code Management.md",
+    "Methodology and Resources/Reverse Shell Cheatsheet.md",
+    "Methodology and Resources/Powershell - Cheatsheet.md",
     "Excalidraw/password generator.md",
+    "books/linux-cheatsheet.pdf",
+    "books/ActiveDirectorySecurityTheJourney.pdf",
+    "books/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf",
+    "nuclei-templates/information disclosure.md",
+    "Methodology and Resources/Hash Cracking.md",
+    "Methodology and Resources/overthewire.md",
+    "penetesting/owasp-api-top-10-pentest-guide.md",
+    "others/Docker.md",
     "Excalidraw/wazuh.md",
     "penetesting/Untitled.md",
     "Excalidraw/Drawing 2026-07-01 16.31.05.excalidraw.md",
@@ -225,26 +228,11 @@
     "web-Application-notes/Injections/xss/4 - CSP Bypass.md",
     "web-Application-notes/Injections/xss/3 - XSS Common WAF Bypass.md",
     "web-Application-notes/Injections/xss/1 - XSS Filter Bypass.md",
-    "web-Application-notes/Injections/xss/2 - XSS Polyglot.md",
     "books/The Practice of Network Security Monitoring.pdf",
     "books/Windows Internals Part 2_6th Edition.pdf",
     "books/The Web Application Hacker's Handbook - Finding and Exploiting Security Flaws, 2nd Edition by Dafydd Stuttard, Marcus Pinto.pdf",
     "books/blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896.pdf",
     "books/computer-networking.pdf",
-    "Excalidraw/Drawing 2026-07-01 19.15.16.excalidraw.md",
-    "books/ActiveDirectorySecurityTheJourney.pdf",
-    "books/AWS_Security_Best_Practices.pdf",
-    "books/GoogleCertifiedAssociateCloudEngineer.pdf",
-    "books/data-centre-essentials-design-construction-and-operation-of-data-centres-for-the-non-expert-9781119898818-9781119898825-9781119898832_compress.pdf",
-    "books/Microsoft-Azure-Cloud.pdf",
-    "Python & libraries/python+beautifulsoup.md",
-    "penetesting/01-everything.md",
-    "penetesting/(owasp top 10).md",
-    "SOC/splunk command/01 - ssh.md",
-    "SOC/01 - SOC.md",
-    "web-Application-notes/SSRF/SSRF.md",
-    "cybersecurity-roadmap-2026.md",
-    "web-Application-notes/Injections/CSS injection.md",
     "Active-directory/2024-01-05-htb-active-walkthrough/thumbnail.png",
     "Active-directory/2024-01-24-htb-active-report/thumbnail.png",
     "Active-directory/2025-01-28-active-directory-exploitation-lab-setup/thumbnail.png",

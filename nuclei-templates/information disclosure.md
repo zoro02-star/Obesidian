@@ -47,3 +47,7 @@ curl -s "https://otx.alienvault.com/api/v1/indicators/hostname/dell.com/url_list
 | jq -r '.url_list[]?.result?.urlworker?.ip // empty' \
 | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' | sort -u
 ```
+
+```
+hashcat -a 0 -m 1000 --backend-ignore-opencl hashes.txt wordlist.txt
+```
