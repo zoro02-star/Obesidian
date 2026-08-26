@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2308ed159029c673",
+        "id": "1ee3294f91036a2c",
         "type": "tabs",
         "children": [
           {
-            "id": "e957f190ad2b4e4a",
+            "id": "2603f9aeb7291de2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/ProgrammingGroundUp-1-0-booksize.pdf"
+                "file": "Python & libraries/python+beautifulsoup.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "ProgrammingGroundUp-1-0-booksize"
+              "icon": "lucide-file",
+              "title": "python+beautifulsoup"
             }
           }
         ]
@@ -156,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/wazuh.md",
+                "file": "Python & libraries/python+beautifulsoup.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of wazuh"
+              "title": "Outline"
             }
           },
           {
@@ -196,43 +208,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e957f190ad2b4e4a",
+  "active": "bc37c85b48ba8104",
   "lastOpenFiles": [
+    "Python & libraries/Python Guide.pdf",
+    "Python & libraries/python+beautifulsoup.md",
+    "Python & libraries/python+pwntools.md",
+    "penetesting/STRIDE THREAT MODEL.md",
+    "penetesting/Web-Pentest-Checklist.md",
+    "penetesting/reporting stuff.md",
+    "penetesting/Pentesting.md",
+    "penetesting/(owasp top 10).md",
+    "penetesting/owasp-api-top-10-pentest-guide.md",
+    "Methodology and Resources/Powershell - Cheatsheet.md",
+    "temp/password generator.md",
+    "nuclei-templates/information disclosure.md",
+    "Excalidraw/Untitled.canvas",
+    "books/linux-cheatsheet.pdf",
+    "web-Application-notes/Broken-Access-control/IDOR.md",
+    "temp",
+    "EXTRAS/ASCII Table Cheat Sheet.md",
+    "EXTRAS/meterpreter.md",
+    "EXTRAS/dorks.md",
+    "books/ProgrammingGroundUp-1-0-booksize.pdf",
+    "temp/usfull.md",
+    "temp",
     "Methodology and Resources/Windows - AMSI Bypass.md",
     "books/dokumen.pub_c-programming-a-modern-approach-second-edition-2nbsped-9780393979503-2007049425.pdf",
-    "books/ProgrammingGroundUp-1-0-booksize.pdf",
     "Methodology and Resources/Windows - Defenses.md",
     "Methodology and Resources/Web Attack Surface.md",
     "Methodology and Resources/Vulnerability Reports.md",
     "Methodology and Resources/Source Code Management.md",
     "Methodology and Resources/Reverse Shell Cheatsheet.md",
-    "Methodology and Resources/Powershell - Cheatsheet.md",
-    "Excalidraw/password generator.md",
-    "books/linux-cheatsheet.pdf",
     "books/ActiveDirectorySecurityTheJourney.pdf",
     "books/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf",
-    "nuclei-templates/information disclosure.md",
     "Methodology and Resources/Hash Cracking.md",
     "Methodology and Resources/overthewire.md",
-    "penetesting/owasp-api-top-10-pentest-guide.md",
-    "others/Docker.md",
-    "Excalidraw/wazuh.md",
-    "penetesting/Untitled.md",
-    "Excalidraw/Drawing 2026-07-01 16.31.05.excalidraw.md",
-    "web-Application-notes/Injections/Prompt Injection.md",
-    "web-Application-notes/Sql/Cassandra Injection.md",
-    "web-Application-notes/misconfigs/Prototype-Pollution.md",
-    "web-Application-notes/Injections/xss/xss readme.md",
-    "web-Application-notes/Injections/xss/cross-site-scripting.md",
-    "web-Application-notes/Injections/xss/5 - XSS in Angular.md",
-    "web-Application-notes/Injections/xss/4 - CSP Bypass.md",
-    "web-Application-notes/Injections/xss/3 - XSS Common WAF Bypass.md",
-    "web-Application-notes/Injections/xss/1 - XSS Filter Bypass.md",
+    "EXTRAS/Docker.md",
     "books/The Practice of Network Security Monitoring.pdf",
     "books/Windows Internals Part 2_6th Edition.pdf",
-    "books/The Web Application Hacker's Handbook - Finding and Exploiting Security Flaws, 2nd Edition by Dafydd Stuttard, Marcus Pinto.pdf",
-    "books/blue-team-handbook-soc-siem-amp-threats-hunting-use-cases-notes-from-fields-v102-9781021493896.pdf",
-    "books/computer-networking.pdf",
     "Active-directory/2024-01-05-htb-active-walkthrough/thumbnail.png",
     "Active-directory/2024-01-24-htb-active-report/thumbnail.png",
     "Active-directory/2025-01-28-active-directory-exploitation-lab-setup/thumbnail.png",

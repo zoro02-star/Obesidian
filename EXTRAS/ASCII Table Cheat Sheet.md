@@ -1,3 +1,5 @@
+\xc4
+
 | ASCII | Character | ASCII | Character | ASCII | Character | ASCII | Character |
 | ----- | --------- | ----- | --------- | ----- | --------- | ----- | --------- |
 | x00   | Null Byte | x08   | BS        | x09   | TAB       | x0a   | LF        |

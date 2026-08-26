@@ -52,3 +52,7 @@ except ValueError as e:
     print(f"Error: {e}. Please enter a valid integer.")
 
 ```
+
+```
+hashcat -a 0 -m 1000 --backend-ignore-opencl hashes.txt wordlist.txt
+```
